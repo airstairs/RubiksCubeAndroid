@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/RubixCube/app/src/main/assets/OrbitControls.js",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/RubixCube/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/RubixCube/app/src/main/kotlin/com/xthan/rubixcube/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 46,
+          "index": 908,
+          "line": 25
+        },
+        "start": {
+          "column": 46,
+          "index": 908,
+          "line": 25
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/RubixCube/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 7,
+          "index": 18204,
+          "line": 463
+        },
+        "start": {
+          "column": 7,
+          "index": 18204,
+          "line": 463
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/RubixCube/app/src/main/assets/index.html"
+}
